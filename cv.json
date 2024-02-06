@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Edna Julieth Abril González",
+    "label": "Psicologa profesional en Recursos Humanos: Transformando Culturas Empresariales con Empatía y Visión Estratégica.",
+    "image": "./public/Edna-perfil.webp",
+    "email": "edna.abril4@gmail.com",
+    "phone": "(+57) 322-203-7271",
+    "url": "null",
+    "summary": "Psicóloga profesional con una sólida experiencia en el área de recursos humanos. Mi enfoque principal es ayudar a las organizaciones a desarrollar y optimizar su capital humano. Me caracterizo por ser una persona empática, orientada al detalle, versátil y con una gran capacidad de aprendizaje autónomo. Mi objetivo es alcanzar un lugar destacado a través de mi contribución al desarrollo y crecimiento, enfocada en los objetivos estratégicos de la compañía.",
+    "location": {
+      "address": "",
+      "postalCode": "Bog 110871",
+      "city": "Bogotá D.C.",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Edna Abril",
+        "url": "https://www.linkedin.com/in/edna-julieth-abril-gonzález-823b20201"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Woden Colombia",
+      "position": "Analista de bienestar y desarrollo",
+      "url": "https://www.woden.com.co/nosotros/acerca-de-woden",
+      "startDate": "2022-07-01",
+      "endDate": "2023-11-01",
+      "summary": "Encargada de liderar la formación inicial y continua, diseñando y ejecutando los planes de bienestar, desarrollo de plan carrera, planes de sucesión, programas de capacitación y entrenamiento; todo ellos a nivel nacional. Además de la construcción y promoción de la cultura organizacional, dirigiendo eficazmente procesos de onboarding para asegurar una integración efectiva de los nuevos colaboradores. Así mismo manejo herramientas ofimáticas para la gestión eficaz de proyectos, seguimiento de metas y cumplimiento de objetivos mensuales.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Natural Smile",
+      "position": "Psicóloga",
+      "url": "https://naturalsmileodontologia.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-07-01",
+      "summary": "Encargada del área de talento humano, lideré procesos integrales de reclutamiento, selección y contratación de personal. Además, gestioné el manejo del personal, incluyendo la capacitación, dotación y pago de honorarios. Me responsabilicé por garantizar el cumplimiento de normativas en materia de Seguridad y Salud en el Trabajo (SST), así como por promover el bienestar laboral. También asumí diversas funciones administrativas relacionadas con la gestión eficiente del recurso humano y el cumplimiento de políticas organizacionales.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Grúas Lego",
+      "position": "Auxiliar de recursos humanos",
+      "startDate": "2019-04-01",
+      "endDate": "2020-01-01",
+      "summary": "Desarrollé actividades clave en recursos humanos, especialmente en el área de selección y reclutamiento, incluyendo la revisión y perfilamiento de hojas de vida, verificación de datos, agendamiento de citas y distribución de dotación. Me encargué del manejo eficiente del manejo documental y la generación de reportes para optimizar los procesos internos de la organización",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Corporacion Universitaria Minuto de Dios",
+      "title": "Psicologa",
+      "url": "https://www.uniminuto.edu/",
+      "area": "Psicologa",
+      "studyType": "Pregrado",
+      "startDate": "2016-04-01",
+      "endDate": "2021-04-01",
+      "score": "4.0",
+      "courses": [
+        "talento humano"
+      ]
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje SENA",
+      "title": "Administracion de Recursos Humanos",
+      "url": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
+      "area": "RRHH",
+      "studyType": "Curso",
+      "startDate": "2021-08-01",
+      "endDate": "2021-08-01",
+      "score": "4.0",
+      "courses": [
+        "talento humano"
+      ]
+    },
+    {
+      "institution": "Corporacion Universitaria Minuto de Dios",
+      "title":"Dificultades del Aprendizaje",
+      "url": "https://www.uniminuto.edu/",
+      "area": "Psicologa",
+      "studyType": "Diplomado",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01",
+      "score": "4.0",
+      "courses": [
+        "talento humano"
+      ]
+    },
+    {
+      "institution": "Politecnico superior de Colombia",
+      "title": "Fundamentos de la Psicologia organizacional",
+      "url": "https://www.politecnicosuperior.edu.co/",
+      "area": "RRHH",
+      "studyType": "Curso",
+      "startDate": "2020-06-01",
+      "endDate": "2020-06-30",
+      "score": "4.0",
+      "courses": [
+        "talento humano"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "SAP"
+    },    
+    {
+      "name": "Articulate Storyline"
+    },
+    {
+      "name": "Microsoft 365"    
+    },
+    {
+      "name": "Manejo documental"
+    },
+    {
+      "name": "Perfilamiento"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Andres M Cardenas",
+      "reference": "Es un placer para mí recomendar a Edna Abril para cualquier oportunidad laboral que esté considerando. He tenido el privilegio de conocer la durante más de diez años, tanto personal como profesionalmente, y puedo afirmar con confianza que es una persona excepcional en todos los aspectos. Durante nuestra larga trayectoria juntos, he sido testigo de la dedicación y el compromiso de Edna en su trabajo. Su pasión por los recursos humanos es innegable, y su capacidad para liderar equipos y llevar a cabo procesos de selección y reclutamiento es verdaderamente admirable. Lo que más destaco de ella, es su habilidad para establecer relaciones sólidas con las personas que la rodean. Es una persona amable, compasiva y siempre dispuesta a ayudar a los demás. Su ética laboral y su integridad son ejemplares, y su enfoque centrado en las personas la distingue como una líder natural en cualquier entorno laboral. Además de su talento profesional, Edna es una persona increíble fuera del trabajo. Su positividad y su sentido del humor han contribuido a crear un ambiente de trabajo positivo y acogedor en todas las situaciones."
+    }
+  ]
+}
